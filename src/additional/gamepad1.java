@@ -2,7 +2,7 @@ package additional;
 
 /**
  * Created by Andrew on 28.11.2017.
- */
+ **/
 
 import org.lwjgl.input.Controllers;
 
@@ -65,7 +65,8 @@ public static int blastr = 0;
 
                 labelcolor a = new labelcolor();
                 a.colorL(ab, ar);
-
+                majority m1 = new majority();
+                m1.majority(ar,ab);
                 String[] str = new String[5];
                 str[0] = boxUmpire12.getText();
                 str[1] = round.getText();
