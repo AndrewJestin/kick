@@ -5,11 +5,6 @@ import java.awt.*;
 
 import static main.adminscreen.*;
 
-/**
- * Created by Daha on 24.04.2017.
- */
-
-
     /**
      * Created by Andrew on 24.02.2017.
      */
