@@ -35,7 +35,7 @@ public class gamepad2 {
                 m2.majority2(ar2,ab2);
 
                 String[] str14 = new String[5];
-                str14[0] = boxUmpire22.getText();
+               // str14[0] = boxUmpire22.getText();
                 str14[1] = round.getText();
                 str14[2] = lbltimer.getText();
                 str14[3] = "1 point Red";
@@ -64,7 +64,7 @@ public class gamepad2 {
               majority2 m2 = new majority2();
               m2.majority2(ar2,ab2);
                     String[] str11 = new String[5];
-                    str11[0] = boxUmpire22.getText();
+                   // str11[0] = boxUmpire22.getText();
                     str11[1] = round.getText();
                     str11[2] = lbltimer.getText();
                     str11[3] = "1 point Blue";

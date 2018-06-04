@@ -14,12 +14,6 @@ import static main.adminscreen.*;
         public static JLabel lblmatch = new JLabel("FIGHT No.");
         public static JLabel leader = new JLabel("DRAW");
         public static JLabel lblMatchNo = new JLabel(lblMatchNo1.getText());
-        public static JLabel Umpire1 = new JLabel(img);
-        public static JLabel Umpire2 = new JLabel(img);
-        public static JLabel Umpire3 = new JLabel(img);
-        public static JLabel rboxcountry2 = new JLabel(img2);
-        public static JLabel bboxcountry2 = new JLabel(img2);
-
         public static JLabel rpenalty = new JLabel("0");
         public static JLabel bpenalty = new JLabel("0");
         public static JLabel bexit = new JLabel("0");
@@ -126,17 +120,6 @@ import static main.adminscreen.*;
          //   totalGUI.add(leader);
 
 
-            // номера судей
-
-            Umpire1.setLocation(855, 495);
-            Umpire1.setSize(85, 55);
-            Umpire1.setHorizontalAlignment(0);
-            Umpire1.setFont(new Font("Arial",Font.BOLD,20));
-            Umpire1.setBackground(Color.black);
-            Umpire1.setOpaque(true);
-            Umpire1.setBorder(BorderFactory.createLineBorder(Color.white));
-            Umpire1.setForeground(Color.white);
-           // totalGUI.add(Umpire1);
 
             JLabel lblUmpire1 = new JLabel("Judge 1");
             lblUmpire1.setLocation(550, 420);
@@ -171,42 +154,7 @@ import static main.adminscreen.*;
             lblUmpire3.setForeground(Color.white);
             totalGUI.add(lblUmpire3);
 
-            Umpire2.setLocation(1005, 495);
-            Umpire2.setSize(85, 55);
-            Umpire2.setHorizontalAlignment(0);
-            Umpire2.setFont(new Font("Arial",Font.BOLD,20));
-            Umpire2.setBackground(Color.black);
-            Umpire2.setOpaque(true);
-            Umpire2.setBorder(BorderFactory.createLineBorder(Color.white));
-            Umpire2.setForeground(Color.white);
-          //  totalGUI.add(Umpire2);
 
-            Umpire3.setLocation(1155, 495);
-            Umpire3.setSize(85, 55);
-            Umpire3.setHorizontalAlignment(0);
-            Umpire3.setFont(new Font("Arial",Font.BOLD,20));
-            Umpire3.setBackground(Color.black);
-            Umpire3.setOpaque(true);
-            Umpire3.setBorder(BorderFactory.createLineBorder(Color.white));
-            Umpire3.setForeground(Color.white);
-         //   totalGUI.add(Umpire3);
-
-            rboxcountry2.setLocation(160, 565);
-            rboxcountry2.setSize(85, 60);
-            rboxcountry2.setHorizontalAlignment(0);
-            rboxcountry2.setFont(new Font("Arial",Font.BOLD,20));
-            rboxcountry2.setBackground(Color.black);
-            rboxcountry2.setOpaque(true);
-            rboxcountry2.setBorder(BorderFactory.createLineBorder(Color.white));
-            rboxcountry2.setForeground(Color.white);
-          //  totalGUI.add(rboxcountry2);
-
-            bboxcountry2.setLocation(160, 630);
-            bboxcountry2.setSize(85, 60);
-            bboxcountry2.setHorizontalAlignment(0);
-            bboxcountry2.setFont(new Font("Arial",Font.BOLD,20));
-            bboxcountry2.setBackground(Color.black);
-            bboxcountry2.setOpaque(true);
           //  bboxcountry2.setBorder(BorderFactory.createLineBorder(Color.white));
 
 

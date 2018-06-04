@@ -93,14 +93,7 @@ public class nextmatch implements ActionListener {
         leader2.setForeground(Color.black);
         round1.setText("1");
         round.setText("ROUND : 1");
-        rnd1red.setEnabled(true);
-        rnd2red.setEnabled(true);
-        rnd1blue.setEnabled(true);
-        rnd2blue.setEnabled(true);
-        rnd1red.setSelected(false);
-        rnd2red.setSelected(false);
-        rnd1blue.setSelected(false);
-        rnd2blue.setSelected(false);
+
         blastr = 0;
         blastr2 = 0;
         blastr3 = 0;
