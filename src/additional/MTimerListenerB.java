@@ -23,6 +23,7 @@ public class MTimerListenerB implements ActionListener {
         //  brkcount--;
 
         lblmedtimerb.setText("0" + MedicMinB + ":0" + MedicCountB);
+        lblmedtimerb2.setText("0" + MedicMinB + ":0" + MedicCountB);
         //  lbltimer1.setText("0" + min + ":0" + count);
 
 //        if (brk == 0) {
@@ -43,12 +44,14 @@ public class MTimerListenerB implements ActionListener {
 
 
             lblmedtimerb.setText("0" + MedicMinB + ":0" + MedicCountB);
+            lblmedtimerb2.setText("0" + MedicMinB + ":0" + MedicCountB);
 
 
         }
         if (MedicCountB > 9 && brk == 0) {
 
             lblmedtimerb.setText("0" + MedicMinB + ":" + MedicCountB);
+            lblmedtimerb2.setText("0" + MedicMinB + ":" + MedicCountB);
 
 
         }
@@ -59,6 +62,7 @@ public class MTimerListenerB implements ActionListener {
 
         if (MedicMinB == 0 && MedicCountB < 0) {
             lblmedtimerb.setText("00:00");
+            lblmedtimerb2.setText("00:00");
             MtimerB.stop();
         }
 //

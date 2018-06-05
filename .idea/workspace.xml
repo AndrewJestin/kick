@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38bb24f1-109d-488e-bf1b-d4162bb940c7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/additional/MTimerListenerB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/additional/MTimerListenerR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/kick_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/sparringitf_jar/sparringitf.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/sparringitf_jar/sparringitf.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/additional/gamepad1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/additional/gamepad1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/additional/gamepad2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/additional/gamepad2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/additional/gamepad3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/additional/gamepad3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/additional/nextmatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/additional/nextmatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/additional/resetscore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/additional/resetscore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$LogButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$LogButtonListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$WatchButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$WatchButtonListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$baddactionperformed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen$bdelactionperformed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/main/adminscreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sparringitf/main/mainscreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sparringitf/main/mainscreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparringitf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sparringitf.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/additional/gamepad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/additional/gamepad1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/additional/gamepad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/additional/gamepad2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/additional/gamepad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/additional/gamepad3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/additional/nextmatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/additional/nextmatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/additional/resetscore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/additional/resetscore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/additional/MTimerListenerB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/additional/MTimerListenerB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/additional/MTimerListenerR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/additional/MTimerListenerR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/adminscreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/adminscreen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/mainscreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/mainscreen.java" afterDir="false" />
     </list>
@@ -50,7 +24,7 @@
       <file leaf-file-name="gamepad2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/additional/gamepad2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="1054">
               <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,8 +36,8 @@
       <file leaf-file-name="exitredminus.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/additional/exitredminus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1343">
-              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+            <state relative-caret-position="1394">
+              <caret line="87" selection-start-line="87" selection-end-line="87" />
             </state>
           </provider>
         </entry>
@@ -71,7 +45,7 @@
       <file leaf-file-name="TimerListener.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/additional/TimerListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="2550">
               <caret line="161" column="16" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -80,11 +54,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adminscreen.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="adminscreen.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/adminscreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-765">
-              <caret line="86" column="51" selection-start-line="86" selection-start-column="51" selection-end-line="86" selection-end-column="51" />
+            <state relative-caret-position="221">
+              <caret line="1056" column="44" selection-start-line="1056" selection-start-column="44" selection-end-line="1056" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainscreen.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/mainscreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -92,8 +75,8 @@
       <file leaf-file-name="MTimerListenerR.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/additional/MTimerListenerR.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+            <state relative-caret-position="391">
+              <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,8 +87,8 @@
       <file leaf-file-name="MTimerListenerB.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/additional/MTimerListenerB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="-324">
+              <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,7 +99,7 @@
       <file leaf-file-name="nextmatch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/additional/nextmatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
+            <state relative-caret-position="1428">
               <caret line="95" selection-start-line="95" selection-end-line="95" />
             </state>
           </provider>
@@ -125,17 +108,8 @@
       <file leaf-file-name="resetscore.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/additional/resetscore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="103" column="48" lean-forward="true" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gamepad3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/additional/gamepad3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+            <state relative-caret-position="1564">
+              <caret line="103" column="48" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -143,7 +117,7 @@
       <file leaf-file-name="gamepad1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/additional/gamepad1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="1105">
               <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
             </state>
           </provider>
@@ -200,7 +174,6 @@
         <option value="$PROJECT_DIR$/src/additional/TimerListener.java" />
         <option value="$PROJECT_DIR$/src/main/mainform.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/mainscreen.java" />
         <option value="$PROJECT_DIR$/src/additional/gamepad3.java" />
         <option value="$PROJECT_DIR$/src/additional/gamepad1.java" />
         <option value="$PROJECT_DIR$/src/additional/gamepad2.java" />
@@ -209,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/additional/MTimerListenerR.java" />
         <option value="$PROJECT_DIR$/src/additional/MTimerListenerB.java" />
         <option value="$PROJECT_DIR$/src/main/adminscreen.java" />
+        <option value="$PROJECT_DIR$/src/main/mainscreen.java" />
       </list>
     </option>
   </component>
@@ -221,7 +195,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1386" />
@@ -235,7 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -270,6 +243,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -556,18 +530,18 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.017410228" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48173517" visible="true" weight="0.2850679" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48173517" visible="true" weight="0.28959277" />
       <window_info id="Structure" order="1" sideWeight="0.51826483" side_tool="true" weight="0.2850679" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -818,13 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/mainscreen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/additional/gamepad3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -834,14 +801,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/additional/gamepad1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="1105">
           <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/additional/gamepad2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="1054">
           <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -858,28 +825,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/additional/exitredminus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        <state relative-caret-position="1394">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/additional/resetscore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="103" column="48" lean-forward="true" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
+        <state relative-caret-position="1564">
+          <caret line="103" column="48" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/additional/nextmatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
+        <state relative-caret-position="1428">
           <caret line="95" selection-start-line="95" selection-end-line="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/additional/TimerListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="2550">
           <caret line="161" column="16" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -889,8 +856,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/additional/MTimerListenerR.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        <state relative-caret-position="391">
+          <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -899,8 +866,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/additional/MTimerListenerB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="-324">
+          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -909,8 +876,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/adminscreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-765">
-          <caret line="86" column="51" selection-start-line="86" selection-start-column="51" selection-end-line="86" selection-end-column="51" />
+        <state relative-caret-position="221">
+          <caret line="1056" column="44" selection-start-line="1056" selection-start-column="44" selection-end-line="1056" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/mainscreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
         </state>
       </provider>
     </entry>

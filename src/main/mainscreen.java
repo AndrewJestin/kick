@@ -29,7 +29,8 @@ import static main.adminscreen.*;
         public static JLabel bs4 = new JLabel("0");
         public static JLabel rcompetitor = new JLabel("Red");
         public static JLabel bcompetitor = new JLabel("Blue");
-
+        public static JLabel lblmedtimerr2 = new JLabel("02:00");
+        public static JLabel lblmedtimerb2 = new JLabel("02:00");
 
         public static JLabel kickred1 = new JLabel("");
         public static JLabel kickred2 = new JLabel("");
@@ -54,12 +55,32 @@ import static main.adminscreen.*;
             totalGUI.setLayout(null);
 
 
-//        lblkicks2.setLocation(530, 410);
-//        lblkicks2.setSize(250, 20);
-//        lblkicks2.setForeground(Color.black);
-//        lblkicks2.setFont(new Font("Arial", Font.BOLD, 20));
-//        lblkicks2.setVisible(false);
-//        totalGUI.add(lblkicks2);
+            lblmedtimerr2.setLocation(390, 200);
+            lblmedtimerr2.setSize(500, 200);
+            lblmedtimerr2.setHorizontalAlignment(0);
+            lblmedtimerr2.setForeground(Color.white);
+            lblmedtimerr2.setBackground(Color.red);
+            lblmedtimerr2.setVerticalAlignment(0);
+            lblmedtimerr2.setFont(new Font("Arial", Font.BOLD, 150));
+            lblmedtimerr2.setBorder(BorderFactory.createLineBorder(Color.white));
+            lblmedtimerr2.setOpaque(true);
+            lblmedtimerr2.setVisible(false);
+
+            totalGUI.add(lblmedtimerr2);
+            
+            lblmedtimerb2.setLocation(390, 200);
+            lblmedtimerb2.setSize(500, 200);
+            lblmedtimerb2.setHorizontalAlignment(0);
+            lblmedtimerb2.setForeground(Color.white);
+            lblmedtimerb2.setBackground(Color.blue);
+            lblmedtimerb2.setVerticalAlignment(0);
+            lblmedtimerb2.setFont(new Font("Arial", Font.BOLD, 150));
+            lblmedtimerb2.setBorder(BorderFactory.createLineBorder(Color.white));
+            lblmedtimerb2.setOpaque(true);
+            lblmedtimerb2.setVisible(false);
+
+            totalGUI.add(lblmedtimerb2);
+
 // категория
             lblcategory.setLocation(400, 5);
             lblcategory.setSize(480, 60);

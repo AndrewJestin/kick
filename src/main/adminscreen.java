@@ -1054,6 +1054,7 @@ import static main.mainscreen.*;
                      //   count = tmaxsec;
                         brkcount = br;
                         btnMedicWatchR.setText("STOP");
+                        lblmedtimerr2.setVisible(true);
                       //  btnMedicWatchR.setBackground(Color.yellow);
                         // btnReset.setEnabled(false);
                      //   sound.playSound("sounds/start2s.wav").join();
@@ -1071,6 +1072,7 @@ import static main.mainscreen.*;
                     } else if (event.getActionCommand().equals("RESUME")) {
                        // btnMedicWatchR.setBackground(Color.yellow);
                         btnMedicWatchR.setText("STOP");
+                        lblmedtimerr2.setVisible(true);
                         MtimerR.start();
 
                     } else if (event.getActionCommand().equals("*Beep")) {
@@ -1079,10 +1081,10 @@ import static main.mainscreen.*;
                     } else if (event.getActionCommand().equals("RESET")) {
                         MedicCountR = 0;
                         MedicMinR = 2;
-                        //brk = 0;
-                       // rndnum = 1;
+                        lblmedtimerr2.setVisible(false);
 
                         lblmedtimerr.setText("02:00");
+                        lblmedtimerr2.setText("02:00");
                        // lbltimer1.setText("00:00");
                         MtimerR.stop();
                         btnMedicWatchR.setText("START");
@@ -1091,6 +1093,7 @@ import static main.mainscreen.*;
                     } else {
                         MtimerR.stop();
                         btnMedicWatchR.setText("RESUME");
+                        lblmedtimerr2.setVisible(false);
                     //    btnMedicWatchR.setBackground(Color.green);
                     }
                 }
@@ -1101,9 +1104,8 @@ import static main.mainscreen.*;
                      //   count = tmaxsec;
                         brkcount = br;
                         btnMedicWatchB.setText("STOP");
-                      //  btnMedicWatchR.setBackground(Color.yellow);
-                        // btnReset.setEnabled(false);
-                       // sound.playSound("sounds/start2s.wav").join();
+                        lblmedtimerb2.setVisible(true);
+
                         MtimerB.start();
 
                         String[] str10 = new String[5];
@@ -1117,6 +1119,7 @@ import static main.mainscreen.*;
 
                     } else if (event.getActionCommand().equals("RESUME")) {
                        // btnMedicWatchR.setBackground(Color.yellow);
+                        lblmedtimerb2.setVisible(true);
                         btnMedicWatchB.setText("STOP");
                         MtimerB.start();
 
@@ -1128,8 +1131,9 @@ import static main.mainscreen.*;
                         MedicMinB = 2;
                         //brk = 0;
                        // rndnum = 1;
-
+                        lblmedtimerb2.setVisible(false);
                         lblmedtimerb.setText("02:00");
+                        lblmedtimerb2.setText("02:00");
                        // lbltimer1.setText("00:00");
                         MtimerB.stop();
                         btnMedicWatchB.setText("START");
@@ -1138,6 +1142,7 @@ import static main.mainscreen.*;
                     } else {
                         MtimerB.stop();
                         btnMedicWatchB.setText("RESUME");
+                        lblmedtimerb2.setVisible(false);
                     //    btnMedicWatchR.setBackground(Color.green);
                     }
                 }
